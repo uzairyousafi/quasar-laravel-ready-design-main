@@ -1,0 +1,27 @@
+{
+  "name": "Aria Herat ERP",
+  "short_name": "Aria Herat",
+  "description": "Offline-first Construction ERP for Aria Herat Mohandes Zada",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A1628",
+  "theme_color": "#123A66",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-128x128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    }
+  ],
+  "categories": [
+    "business",
+    "productivity"
+  ],
+  "lang": "en"
+}
